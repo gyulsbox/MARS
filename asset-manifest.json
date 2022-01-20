@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MARS/static/js/main.6cf98048.js",
+    "main.js": "/MARS/static/js/main.68f44957.js",
     "index.html": "/MARS/index.html",
-    "main.6cf98048.js.map": "/MARS/static/js/main.6cf98048.js.map"
+    "main.68f44957.js.map": "/MARS/static/js/main.68f44957.js.map"
   },
   "entrypoints": [
-    "static/js/main.6cf98048.js"
+    "static/js/main.68f44957.js"
   ]
 }
