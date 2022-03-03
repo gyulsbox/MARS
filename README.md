@@ -10,11 +10,9 @@
   <img src="https://img.shields.io/badge/React Query-3.34.8-red?style=flat-square&logo=React Query&logoColor=red" />
   <img src="https://img.shields.io/badge/StyledComponents-5.3.3-DB7093?style=flat-square&logo=styled-components&logoColor=#DB7093" alt="styled-components badge" />
   <br />
-  <img src="https://img.shields.io/badge/-React--hook--form--7.27.1-purple?style=flat-square&" />
-  <img src="https://img.shields.io/badge/-React--player--2.9.0-purple?style=flat-square&" />
   <img src="https://img.shields.io/badge/-React--helmet--6.1.0-purple?style=flat-square&" />
+  <img src="https://img.shields.io/badge/-React--ApexCharts--1.3.9-purple?style=flat-square&" />
   <img src="https://img.shields.io/badge/-Recoil--0.6.1-purple?style=flat-square&"/>
-  <img src="https://img.shields.io/badge/-ApexCharts--3.33.0-purple?style=flat-square&"/>                                                                       
   <img src="https://img.shields.io/badge/-List.js--2.3.1-purple?style=flat-square&"/>                                                                         
   <br />
   <br />                                                                              
